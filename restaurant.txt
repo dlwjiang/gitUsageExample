@@ -1,4 +1,9 @@
-My Restaurant
+Chinese Restaurant
 --------------
-Brown-Rice
-Pork
+Jasmine Rice
+Chairman Mao's Pork
+Orange Chicken
+Sesame Chicken
+General Tsao's Chicken
+Broccoli and Beef
+Mapo Tofu
